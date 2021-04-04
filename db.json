@@ -1,31 +1,77 @@
-{
-  "posts": [
-    {
-      "id": 1,
-      "title": "Post 1"
-    },
-    {
-      "id": 2,
-      "title": "Post 2"
-    },
-    {
-      "id": 3,
-      "title": "Post 3"
-    }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
+[
+  {
+    "tags": [
+      "Comedy",
+      "Romance",
+      "School Life"
+    ],
+    "novelName": "I'll have sherbet!",
+    "authorName": "Kuyou",
+    "artistName": "Fly",
+    "status": "Đang tiến hành",
+    "alternativeNames": [
+      "佐伯さんと、ひとつ屋根の下I'll have Sherbet!",
+      "Saeki-san to, Hitotsu Yane no Shita: I'll Have Sherbet!"
+    ],
+    "type": "Truyện dịch",
+    "coverUrl": "https://c1.hako.re/lightnovel/covers/s7063-97e477bd-819c-4bdd-a6fa-b3d11141eb95-m.jpg"
+  },
+  {
+    "tags": [
+      "Comedy",
+      "Romance",
+      "School Life",
+      "Slice of Life"
+    ],
+    "novelName": "O Miai Shitakunakattanode Muri Nandaina Joken o Tsuketara Dokyusei ga Kita Kudan ni Tsuite",
+    "authorName": "Sakuragi Sakura (桜木桜)",
+    "artistName": "clear",
+    "status": "Đang tiến hành",
+    "alternativeNames": [
+      "お見合いしたくなかったので、無理難題な条件をつけたら同級生が来た件について"
+    ],
+    "type": "Truyện dịch",
+    "coverUrl": "https://c1.hako.re/lightnovel/covers/s8118-b549b1e2-115b-493c-8789-dac962f7e99a-m.jpg"
+  },
+  {
+    "tags": [
+      "Action",
+      "Adapted to Anime",
+      "Adapted to Manga",
+      "Comedy",
+      "Ecchi",
+      "Fantasy",
+      "Harem",
+      "School Life",
+      "Supernatural",
+      ""
+    ],
+    "novelName": "Rokudenashi Majutsu Koushi to Akashic Records",
+    "authorName": "Tarou Hitsuji - 羊太郎",
+    "artistName": "Kurone Mishima - 三嶋くろね",
+    "status": "Đang tiến hành",
+    "alternativeNames": [
+      "ロクでなし魔術講師と禁忌教典",
+      "Akashic Records of the Bastard Magical Instructor"
+    ],
+    "type": "Truyện dịch",
+    "coverUrl": "https://c1.hako.re/lightnovel/covers/s8349-b6870114-bcfa-459a-a887-4e6418ccc043-m.jpg"
+  },
+  {
+    "tags": [
+      "Comedy",
+      "Harem",
+      "Romance",
+      "School Life"
+    ],
+    "novelName": "Osananajimi ga Zettai ni Makenai Love Comedy",
+    "authorName": "Nimaru Suichi",
+    "artistName": "Shigure Ui",
+    "status": "Đang tiến hành",
+    "alternativeNames": [
+      "Bộ Romcom Mà Bạn Thân Thuở Nhỏ Không Thể Nào Thua"
+    ],
+    "type": "Truyện dịch",
+    "coverUrl": "https://c1.hako.re/lightnovel/covers/s7244-a996a390-d28a-4b29-b93a-eeee0b07e9ef-m.jpg"
   }
-}
+]
