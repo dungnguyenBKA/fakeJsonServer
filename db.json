@@ -1,4 +1,5 @@
-[
+{
+   "novels": [
   {
     "tags": [
       "Comedy",
@@ -75,3 +76,5 @@
     "coverUrl": "https://c1.hako.re/lightnovel/covers/s7244-a996a390-d28a-4b29-b93a-eeee0b07e9ef-m.jpg"
   }
 ]
+
+}
