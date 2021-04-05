@@ -1,6 +1,7 @@
 {
   "data": [
     {
+      "item": "Hành động",
       "type": "banner",
       "listNovel": [
         {
@@ -36,51 +37,11 @@
           ],
           "type": "Truyện dịch",
           "coverUrl": "https://c1.hako.re/lightnovel/covers/s8118-b549b1e2-115b-493c-8789-dac962f7e99a-m.jpg"
-        },
-        {
-          "tags": [
-            "Action",
-            "Adapted to Anime",
-            "Adapted to Manga",
-            "Comedy",
-            "Ecchi",
-            "Fantasy",
-            "Harem",
-            "School Life",
-            "Supernatural",
-            ""
-          ],
-          "novelName": "Rokudenashi Majutsu Koushi to Akashic Records",
-          "authorName": "Tarou Hitsuji - 羊太郎",
-          "artistName": "Kurone Mishima - 三嶋くろね",
-          "status": "Đang tiến hành",
-          "alternativeNames": [
-            "ロクでなし魔術講師と禁忌教典",
-            "Akashic Records of the Bastard Magical Instructor"
-          ],
-          "type": "Truyện dịch",
-          "coverUrl": "https://c1.hako.re/lightnovel/covers/s8349-b6870114-bcfa-459a-a887-4e6418ccc043-m.jpg"
-        },
-        {
-          "tags": [
-            "Comedy",
-            "Harem",
-            "Romance",
-            "School Life"
-          ],
-          "novelName": "Osananajimi ga Zettai ni Makenai Love Comedy",
-          "authorName": "Nimaru Suichi",
-          "artistName": "Shigure Ui",
-          "status": "Đang tiến hành",
-          "alternativeNames": [
-            "Bộ Romcom Mà Bạn Thân Thuở Nhỏ Không Thể Nào Thua"
-          ],
-          "type": "Truyện dịch",
-          "coverUrl": "https://c1.hako.re/lightnovel/covers/s7244-a996a390-d28a-4b29-b93a-eeee0b07e9ef-m.jpg"
         }
       ]
     },
     {
+      "item": "Tình cảm, Hài hước",
       "type": "category",
       "listNovel": [
         {
@@ -144,6 +105,7 @@
       ]
     },
     {
+      "item": "Kinh dị trinh thám",
       "type": "category",
       "listNovel": [
         {
