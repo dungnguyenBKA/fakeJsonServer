@@ -5,11 +5,7 @@
       "type": "banner",
       "listNovel": [
         {
-          "tags": [
-            "Comedy",
-            "Romance",
-            "School Life"
-          ],
+       
           "novelName": "I'll have sherbet!",
           "authorName": "Kuyou",
           "artistName": "Fly",
@@ -22,12 +18,7 @@
           "coverUrl": "https://c1.hako.re/lightnovel/covers/s7063-97e477bd-819c-4bdd-a6fa-b3d11141eb95-m.jpg"
         },
         {
-          "tags": [
-            "Comedy",
-            "Romance",
-            "School Life",
-            "Slice of Life"
-          ],
+          
           "novelName": "O Miai Shitakunakattanode Muri Nandaina Joken o Tsuketara Dokyusei ga Kita Kudan ni Tsuite",
           "authorName": "Sakuragi Sakura (桜木桜)",
           "artistName": "clear",
@@ -46,9 +37,10 @@
       "listNovel": [
         {
           "tags": [
-            "Comedy",
-            "Romance",
-            "School Life"
+            {
+              "tagName" : "Comedy",
+              "tagUrl" : "https://ln.hako.re/the-loai/comedy"
+            }
           ],
           "novelName": "I'll have sherbet!",
           "authorName": "Kuyou",
@@ -63,10 +55,10 @@
         },
         {
           "tags": [
-            "Comedy",
-            "Romance",
-            "School Life",
-            "Slice of Life"
+           {
+              "tagName" : "Comedy",
+              "tagUrl" : "https://ln.hako.re/the-loai/comedy"
+            }
           ],
           "novelName": "O Miai Shitakunakattanode Muri Nandaina Joken o Tsuketara Dokyusei ga Kita Kudan ni Tsuite",
           "authorName": "Sakuragi Sakura (桜木桜)",
@@ -80,16 +72,10 @@
         },
         {
           "tags": [
-            "Action",
-            "Adapted to Anime",
-            "Adapted to Manga",
-            "Comedy",
-            "Ecchi",
-            "Fantasy",
-            "Harem",
-            "School Life",
-            "Supernatural",
-            ""
+           {
+              "tagName" : "Comedy",
+              "tagUrl" : "https://ln.hako.re/the-loai/comedy"
+            }
           ],
           "novelName": "Rokudenashi Majutsu Koushi to Akashic Records",
           "authorName": "Tarou Hitsuji - 羊太郎",
@@ -110,16 +96,10 @@
       "listNovel": [
         {
           "tags": [
-            "Action",
-            "Adapted to Anime",
-            "Adapted to Manga",
-            "Comedy",
-            "Ecchi",
-            "Fantasy",
-            "Harem",
-            "School Life",
-            "Supernatural",
-            ""
+            {
+              "tagName" : "Comedy",
+              "tagUrl" : "https://ln.hako.re/the-loai/comedy"
+            }
           ],
           "novelName": "Rokudenashi Majutsu Koushi to Akashic Records",
           "authorName": "Tarou Hitsuji - 羊太郎",
@@ -134,10 +114,10 @@
         },
         {
           "tags": [
-            "Comedy",
-            "Harem",
-            "Romance",
-            "School Life"
+            {
+              "tagName" : "Comedy",
+              "tagUrl" : "https://ln.hako.re/the-loai/comedy"
+            }
           ],
           "novelName": "Osananajimi ga Zettai ni Makenai Love Comedy",
           "authorName": "Nimaru Suichi",
